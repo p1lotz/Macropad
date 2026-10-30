@@ -37,7 +37,8 @@ The top panel uses M2 screws with I will supply them myself and the case uses M2
 | EC11E Encoder          |  1  |EC11E Encoder,1,$5.74/27.26 RON|https://www.digikey.com/en/products/detail/alps-alpine/EC11E1820402/21721574
 | 0.91 inch OLED Display |  1  |0.91 inch OLED Display,1,$3.90/18.52 RON|https://www.displaymodule.com/products/0-91-inch-oled-graphic-display-128x32-with-i2c
 | 1N4148 Diodes          |  9  |1N4148 Diodes,9,$0.90/ 4.27 RON|https://www.digikey.com/en/products/detail/onsemi/1N4148/458603
-| M2 Screws              |  4  |
-| M2 Heat Inserts        |  4  |
+| M2 Screws              |  4  | $ 6.33/30.26 RON| https://www.aliexpress.com/item/1005009393815442.html?spm=a2g0o.productlist.main.12.58de26ab2TBGmF&aem_p4p_detail=2026103012063913891125749010510002557345&algo_pvid=83519af8-cef8-47bf-a938-ebaf77f97a94&algo_exp_id=83519af8-cef8-47bf-a938-ebaf77f97a94-11&pdp_ext_f={%22order%22%3A%2217329%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!RON!25.45!25.45!!!34.23!34.23!%400b884c0217933871997487337e0f37!12000048962946395!sea!RO!0!X!1!0!n_tag%3A-29919%3Bd%3Ab9047a9f%3Bm03_new_user%3A-29895&curPageLogUid=a6W47JtdcEx5&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005009393815442|_p_origin_prod%3A&search_p4p_id=2026103012063913891125749010510002557345_3
+| M2 Heat Inserts        |  4  | $6.13/29.30 RON   |https://www.aliexpress.com/item/1005003582355741.html?spm=a2g0o.productlist.main.5.79a83820jo5k76&algo_pvid=b5ca7594-b5cb-446f-aaba-d851b61526b0&algo_exp_id=b5ca7594-b5cb-446f-aaba-d851b61526b0-4&pdp_ext_f={%22order%22%3A%2251090%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!RON!26.94!26.93!!!36.24!36.23!%400b88a96117933872832992703e0ffa!12000026370649842!sea!RO!0!X!1!0!n_tag%3A-29919%3Bd%3Ab9047a9f%3Bm03_new_user%3A-29895&curPageLogUid=ZhzOiMhmMZi9&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005003582355741|_p_origin_prod%3A 
+| Main PCB | 1 | $4.00/19.12 RON |
 | 3D Printed Case        |  1  |
 | 3D Printed Panel       |  1  |
